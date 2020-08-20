@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finaldusk.HttpLib", "Finaldusk.HttpLib\Finaldusk.HttpLib.csproj", "{50F19EE1-F114-42BE-8802-708EDD86B006}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50F19EE1-F114-42BE-8802-708EDD86B006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50F19EE1-F114-42BE-8802-708EDD86B006}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50F19EE1-F114-42BE-8802-708EDD86B006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50F19EE1-F114-42BE-8802-708EDD86B006}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF527326-BF27-4FC8-AD05-52BDDCC41D8F}
+	EndGlobalSection
+EndGlobal
